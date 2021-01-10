@@ -4,7 +4,10 @@
 #include <windows.h>
 #include "info.h"
 <<<<<<< HEAD
+<<<<<<< HEAD
 #include "studentdata.h"
+=======
+>>>>>>> 5d658cfeca5c47067c3522a76c1600c9b819688a
 =======
 >>>>>>> 5d658cfeca5c47067c3522a76c1600c9b819688a
 #include <fstream>
