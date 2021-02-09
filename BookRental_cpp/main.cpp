@@ -5,10 +5,20 @@
 #include <ctime>
 #include "info.h"
 #include "info.cpp"
+#include "encrypted.h"
+#include "encrypted.cpp"
+
 using namespace std;
+
+
 
 int main(void)
 {
+	//복호화 데이터 이용 파트
+	encrypted::readdata();
+
+
+	//메인 메뉴
 	while (1)
 	{
 		int a;
